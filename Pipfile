@@ -8,6 +8,7 @@ flask-sqlalchemy = "*"
 flask = "*"
 flask-migrate = "*"
 pytz = "*"
+flask-restful = "*"
 
 [dev-packages]
 
